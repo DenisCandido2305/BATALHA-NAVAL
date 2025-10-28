@@ -1,5 +1,4 @@
 # BATALHA-NAVAL
-BATALHA NAVAL EM C
 🚢 Batalha Naval em C ⚓
 
 Prepare-se para zarpar e mostrar suas habilidades de estratégia neste jogo de Batalha Naval totalmente feito em C!
